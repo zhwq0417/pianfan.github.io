@@ -1,3 +1,3 @@
-# pianfan.github.io
+# Wenqian.github.io
 
-My Personal Blog via GitHub
+My academic Blog via GitHub
